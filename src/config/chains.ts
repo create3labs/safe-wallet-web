@@ -33,6 +33,8 @@ const ChainLogos = {
   [chains.arb1]: '/images/networks/arb.svg',
   [chains.avax]: '/images/networks/avax.svg',
   [chains.sep]: '/images/networks/sep.png',
+  [chains.Gobi]: '/images/networks/horizen-gobi.svg',
+  [chains.horizen]: '/images/networks/horizen-eon.svg',
 }
 
 export const getChainLogo = (chainId: string) => {
