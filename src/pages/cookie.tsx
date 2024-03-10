@@ -39,16 +39,8 @@ const SafeCookiePolicy = () => (
       data in pseudonymised form.
     </p>
     <p>
-      This Cookie Policy applies to our website at{' '}
-      <Link href="https://app.safe.global" passHref legacyBehavior>
-        <MUILink>https://app.safe.global</MUILink>
-      </Link>
-      &nbsp;and sets out some further detail on how and why we use these technologies on our website.{' '}
-    </p>
-    <p>
-      In this policy, &quot;we&quot;, &quot;us&quot; and &quot;our&quot; refers to Core Contributors GmbH a company
-      incorporated in Germany with its registered address at Gontardstraße 11, 10178 Berlin, Germany. The terms
-      &ldquo;you&rdquo; and &ldquo;your&rdquo; includes our clients, business partners and users of this website.{' '}
+      This Cookie Policy applies to our website and sets out some further detail on how and why we use these
+      technologies on our website.{' '}
     </p>
     <p>
       By using our website, you consent to storage and access to cookies and other technologies on your device, in

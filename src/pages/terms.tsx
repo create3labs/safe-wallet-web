@@ -17,12 +17,8 @@ const SafeTerms = () => (
     <h3>1. What is the scope of the Terms?</h3>
     <ol start={1}>
       <li>
-        These Terms and Conditions (&ldquo;Terms&rdquo;) become part of any contract (&ldquo;Agreement&rdquo;) between
-        you (&ldquo;you&rdquo;, &ldquo;yours&rdquo; or &ldquo;User&rdquo;) and Core Contributors GmbH (&ldquo;CC&rdquo;,
-        &ldquo;we&rdquo;, &ldquo;our&rdquo; or &ldquo;us&rdquo;) provided we made these Terms accessible to you prior to
-        entering into the Agreement and you consent to these Terms. We are a limited liability company registered with
-        the commercial register of Berlin Charlottenburg under company number HRB 240421&nbsp;B, with its registered
-        office at Gontardstraße 11, 10178 Berlin, Germany. You can contact us by writing to info@cc0x.dev.
+        These Terms and Conditions (&ldquo;Terms&rdquo;) become part of any usage (&ldquo;Agreement&rdquo;) by you
+        (&ldquo;you&rdquo;, &ldquo;yours&rdquo; or &ldquo;User&rdquo;).
       </li>
       <li>
         The Agreement is concluded by using the Mobile App, Web App and/or Browser Extension&nbsp;subject to these

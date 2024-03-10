@@ -52,20 +52,13 @@ const SafePrivacyPolicy = () => (
     <p>Last updated: January 2024.</p>
     <p>
       Your privacy is important to us. It is our policy to respect your privacy and comply with any applicable law and
-      regulation regarding any personal information we may collect about you, including across our website,{' '}
-      <a href="https://app.safe.global">https://app.safe.global</a>
-      ,&nbsp;and other sites we own and operate as well as mobile applications we offer. Wherever possible, we have
-      designed our website so that you may navigate and use our website without having to provide Personal Data.
+      regulation regarding any personal information we may collect about you, including across our website,&nbsp;and
+      other sites we own and operate as well as mobile applications we offer. Wherever possible, we have designed our
+      website so that you may navigate and use our website without having to provide Personal Data.
     </p>
     <p>
       This Privacy Policy describes how we, as a controller, collect, use and share your personal data. It applies to
       personal data you voluntarily provide to us, or is automatically collected by us.{' '}
-    </p>
-    <p>
-      In this policy, &quot;we&quot;, &quot;us&quot; and &quot;our&quot; refers to Core Contributors GmbH a company
-      incorporated in Germany with its registered address at Gontardstraße 11, 10178 Berlin, Germany.&nbsp;Any data
-      protection related questions you might have about how we handle your personal data or if you wish to exercise your
-      data subject rights, please contact us by post or at privacy@cc0x.dev.{' '}
     </p>
     <p>
       In this Policy, &ldquo;personal data&rdquo; means any information relating to you as an identified or identifiable
@@ -911,26 +904,9 @@ const SafePrivacyPolicy = () => (
     </p>
     <h5>Right to lodge a complaint with a relevant supervisory authority</h5>
     <p>
-      We encourage you to contact us at privacy@cc0de.dev if you have any privacy related concerns. Should you
-      disapprove of the response we have provided you, you have the right to lodge a complaint with our supervisory
-      authority, or with the data protection authority of the European member state you live or work in. The details of
-      the supervisory authority responsible for Berlin, Germany, are:
-    </p>
-    <p>Berliner Beauftragte f&uuml;r Datenschutz und Informationsfreiheit</p>
-    <p>
-      Alt-Moabit 59-61
-      <br />
-      10555 Berlin
-      <br />
-      Germany
-      <br />
-      Phone: 030/138 89-0
-    </p>
-    <p>
-      <a href="https://www.datenschutz-berlin.de" target="_blank" rel="noreferrer">
-        https://www.datenschutz-berlin.de
-      </a>
-      &nbsp;
+      We encourage you to contact us if you have any privacy related concerns. Should you disapprove of the response we
+      have provided you, you have the right to lodge a complaint with our supervisory authority, or with the data
+      protection authority of the European member state you live or work in.
     </p>
     <p>
       You also have the right to lodge a complaint with the supervisory authority in the country of your habitual
@@ -950,8 +926,8 @@ const SafePrivacyPolicy = () => (
     <h3 id="section-12">12. Children’s data</h3>
     <p>
       Our products and services are neither designed nor intended for use by children and persons under the age of 18.
-      If you suspect or discover that our products and services are being used by a child, please contact us immediately
-      at <a href="mailto:privacy@cc0x.dev">privacy@cc0x.dev</a>
+      If you suspect or discover that our products and services are being used by a child, please contact us
+      immediately.
     </p>
     <h3 id="section-13">13. Changes to this Privacy Policy</h3>
     <p>
@@ -961,32 +937,6 @@ const SafePrivacyPolicy = () => (
       stay informed about our data protection policy. Unless, we implement profound changes that we proactively notify
       you about, you acknowledge that it is your responsibility to review our privacy policy to be aware of
       modifications. If you do not agree to the revised policy, you should discontinue your use of this website.
-    </p>
-    <h3 id="section-14">14. Contact Us</h3>
-    <h5>Contact us by post or email at:</h5>
-    <p>
-      Core Contributors GmbH
-      <br />
-      Gontardstraße 11
-      <br />
-      10178 Berlin
-      <br />
-      Germany
-      <br />
-      privacy@cc0x.dev
-    </p>
-    <h5>Contact our Data Protection Officer by post or email at:</h5>
-    <p>
-      TechGDPR DPC GmbH
-      <br />
-      Heinrich-Roller Str. 15
-      <br />
-      10405 Berlin
-      <br />
-      Germany
-    </p>
-    <p>
-      <a href="mailto:corecontributors.dpo@techgdpr.com">corecontributors.dpo@techgdpr.com</a>
     </p>
   </SmoothScroll>
 )
