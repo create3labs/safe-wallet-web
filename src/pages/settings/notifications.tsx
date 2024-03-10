@@ -10,7 +10,7 @@ const NotificationsPage: NextPage = () => {
   const isNotificationFeatureEnabled = useHasFeature(FEATURES.PUSH_NOTIFICATIONS)
 
   if (!isNotificationFeatureEnabled) {
-    return null
+    // return null
   }
 
   return (
